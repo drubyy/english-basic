@@ -8,18 +8,18 @@
 #### Hiện tại đơn (Simple present tense)
 ##### Công thức
 - Khẳng định
-  - Với động từ thường: S + V(s/es) + O (He plays football every Sunday)
+  - Với động từ thường: **S + V(s/es) + O** (He plays football every Sunday)
     + Chủ ngữ số ít (he / she / it / danh từ số ít) => Thêm (s/es)
     + Chủ ngữ số nhiều (I / you / we / they / danh từ số nhiều) => không thêm
-  - Với động từ tobe: S + be(am/is/are) + N/Adj (I am a teacher)
+  - Với động từ tobe: **S + be(am/is/are) + N/Adj** (I am a teacher)
  
 - Phủ định
-  - Với động từ thường: S + do/does + not + V(không chia) (He don't like coffee)
-  - Với động từ tobe: S + be(am/is/are) + not + N/Adj (He is not a football player)
+  - Với động từ thường: **S + do/does + not + V(không chia)** (He don't like coffee)
+  - Với động từ tobe: **S + be(am/is/are) + not + N/Adj** (He is not a football player)
  
 - Nghi vấn
-  - Với động từ thường: Do/Does + S + V(không chia) ? (Do you run every morning?)
-  - Với động từ tobe: be(Am/Is/Are) + S + N/Adj ? (Are you a student?)
+  - Với động từ thường: **Do/Does + S + V(không chia)?** (Do you run every morning?)
+  - Với động từ tobe: **be(Am/Is/Are) + S + N/Adj?** (Are you a student?)
 
 ##### Sử dụng khi
 - Diễn tả thói quen, hành động lặp đi lặp lại, mang tính thường xuyên
@@ -44,9 +44,9 @@
 ---
 #### Hiện tại tiếp diễn (Present continuous)
 ##### Công thức
-- Khẳng định: S + be(am/is/are) + V-ing (I am reading a book)
-- Phủ định: S + be(am/is/are) + not + V-ing (He is not sleeping)
-- Nghi vấn: Be(Am/Is/Are) + S + V-ing (Are you working now?)
+- Khẳng định: **S + be(am/is/are) + V-ing** (I am reading a book)
+- Phủ định: **S + be(am/is/are) + not + V-ing** (He is not sleeping)
+- Nghi vấn: **Be(Am/Is/Are) + S + V-ing** (Are you working now?)
 
 ##### Sử dụng khi
 - Hành động đang diễn ra tại thời điểm nói
@@ -75,14 +75,14 @@
 ---
 #### Quá khứ đơn (Simple past)
 ##### Công thức
-- Khẳng định: S + V2/V-ed
+- Khẳng định: **S + V2/V-ed**
   + I watched that movie
   + She went to school yesterday
   + I was tired yesterday (I / he / she /it -> dùng was)
   + They were at the park (We / they / you -> dùng were)
-- Phủ định: S + did + not + V1(không thêm s/es/ed/v2 - nguyên mẫu)
+- Phủ định: **S + did + not + V1(không thêm s/es/ed/v2 - nguyên mẫu)**
   + He didn't go to school yesterday
-- Nghi vấn: Did + S + V1(không thêm s/es/ed/v2 - nguyên mẫu)?
+- Nghi vấn: **Did + S + V1(không thêm s/es/ed/v2 - nguyên mẫu)?**
   + Did you meet him?
  
 ##### Sử dụng khi
