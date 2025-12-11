@@ -98,3 +98,49 @@
 - in + năm quá khứ (in 2008)
 - when + mệnh đề quá khứ
 - once / previously / formerly
+
+#### Quá khứ tiếp diễn (Past continuous tense)
+##### Công thức
+- Khẳng định: **S + was/were + V-ing**
+  She was reading a book at 8 P.M last night
+- Phủ định: **S + was/were + not + V-ing**
+  I wasn't studying at 5 A.M yesterday
+- Nghi vấn: **Was/Were + S + V-ing ?**
+  Were they playing football at 5 P.M yesterday ?
+
+##### Sử dụng khi
+- Diễn tả 1 hành động đang xảy ra trong quá khứ tại 1 thời điểm
+- Hai hành động xảy ra đồng thời trong quá khứ
+- Hành động đang diễn ra thì có hành động khác xen vào (quá khứ đơn xen vào quá khứ tiếp diễn, xảy ra trước thì dùng quá khứ tiếp diễn, xảy ra sau là quá khứ đơn)
+- Tả bối cảnh / background story trong quá khứ
+
+#### Hiện tại hoàn thành (Present perfect)
+##### Công thức
+- Khẳng định: **S + have/has + V3**
+  She has finished her homework
+- Phủ định: **S + have/has + not + V3**
+  They haven't seen that movie
+- Nghi vấn: **Have/Has + S + V3?**
+  Have you ever been to Da Nang ?
+
+##### Sử dụng khi
+- Diễn ra xảy ra 1 hành động trong quá khứ nhưng còn liên quan đến hiện tại
+- Diễn tả kinh nghiệm (đã từng làm) -> không đề cập thời gian cụ thể
+  + I have visited Japan
+  + She has never tried Sushi
+- Hành động xảy ra trong quá khứ nhưng thời gian không rõ hoặc không quan trọng
+  + Someone has stolen my bike
+  + I have lost my keys
+- Hành động xảy ra trong quá khứ và còn tiếp diễn đến hiện tại
+  + I have lived here for 5 years
+- Kết quả của quá khứ còn ảnh hưởng đến hiện tại
+  + I have broken my leg (bây giờ vẫn còn đau)
+##### Dấu hiệu nhận biết
+- Just
+- Already
+- Yet (vẫn chưa)
+- ever / never (đã từng / chưa từng)
+- recently / lately
+- so far / up to now / util now
+- for + khoẳng thời gian
+- since
